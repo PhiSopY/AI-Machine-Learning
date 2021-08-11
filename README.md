@@ -4,9 +4,10 @@
 * As for each Algorithm, algorithm principle and code will be put together in a Jupyter Notebook in [src](https://github.com/PhiSopY/AI-Machine-Learning/tree/master/src) file.
 * Data used in Code will be put in [data](https://github.com/PhiSopY/AI-Machine-Learning/tree/master/data) file.
 * Operation results will be put in [results](https://github.com/PhiSopY/AI-Machine-Learning/tree/master/results) file.
+* Documents sucha as references are put in [doc](https://github.com/PhiSopY/AI-Machine-Learning/tree/master/doc) file.
 ## Machine Learning Types
 
-![ML Types]("https://github.com/PhiSopY/AI-Machine-Learning/blob/master/doc/references/thinkingMap/ML_Class2.png")
+![ML Types](doc/references/thinkingMap/ML_Class2.png)
 
 ## Algorithm Outline
 ### Unsupervised Learning
@@ -21,19 +22,19 @@
 ### Semi-supervised Learning
 ### Supervised Learning
 * Linear Models
-  * Logistics Regression
+  * [Logistics Regression](https://github.com/PhiSopY/AI-Machine-Learning/tree/master/src/Supervised-Learning/Linear-Models/LogisticsRegression)
 * Linear and Quadratic Discriminat Analysis
 * Kernel Ridge Regression
 * Support Vector Machines
 * Stochastic Gradient Descent
 * Nearest Neighbors
-  * KNN
+  * [KNN](https://github.com/PhiSopY/AI-Machine-Learning/tree/master/src/Supervised-Learning/Nearest-Neighbors/KNN)
 * Gaussian Processes
 * Cross Decomposition
 * Naive Bayes
 * Decision Trees
-  * ID3
-  * GBDT
+  * [ID3](https://github.com/PhiSopY/AI-Machine-Learning/tree/master/src/Supervised-Learning/Decision-Trees/IG3)
+  * [GBDT](https://github.com/PhiSopY/AI-Machine-Learning/tree/master/src/Supervised-Learning/Decision-Trees/GBDT)
 * Ensemble methods
 * Multiclass and multioutput algorithms
 * Feature selection
