@@ -4,6 +4,10 @@
 * As for each Algorithm, algorithm principle and code will be put together in a Jupyter Notebook in [src](https://github.com/PhiSopY/AI-Machine-Learning/tree/master/src) file.
 * Data used in Code will be put in [data](https://github.com/PhiSopY/AI-Machine-Learning/tree/master/data) file.
 * Operation results will be put in [results](https://github.com/PhiSopY/AI-Machine-Learning/tree/master/results) file.
+## Machine Learning Types
+
+![ML Types]("https://github.com/PhiSopY/AI-Machine-Learning/blob/master/doc/references/thinkingMap/ML_Class2.png")
+
 ## Algorithm Outline
 ### Unsupervised Learning
 * Gaussian mixture models
