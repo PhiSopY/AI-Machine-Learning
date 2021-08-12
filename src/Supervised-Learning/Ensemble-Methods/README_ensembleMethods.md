@@ -1,3 +1,5 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 # **Emsemble methods**
 The bias and variance tradeoff is one of the key concerns when working with machine learning algorithms. Fortunately there are some Ensemble Learning based techniques that machine learning practitioners can take advantage of in order to tackle the bias and variance tradeoff, these techniques are bagging and boosting. 
 ![ML](../../../doc/doc_ensembleMethods/ensemble1.jpeg)
