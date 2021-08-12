@@ -43,8 +43,8 @@
 * Decision Trees
   * [ID3](https://github.com/PhiSopY/AI-Machine-Learning/tree/master/src/Supervised-Learning/Decision-Trees/IG3)
   * [GBDT](https://github.com/PhiSopY/AI-Machine-Learning/tree/master/src/Supervised-Learning/Decision-Trees/GBDT)
-* Ensemble methods
-  * [Random Forest](https://github.com/PhiSopY/AI-Machine-Learning/tree/master/src/Supervised-Learning/Random-Forest)
+* [Ensemble methods](https://github.com/PhiSopY/AI-Machine-Learning/tree/master/src/Supervised-Learning/Ensemble-Methods/ensembleMethods.ipynb)
+  * [Random Forest](https://github.com/PhiSopY/AI-Machine-Learning/tree/master/src/Supervised-Learning/Ensemble-Methods/Random-Forest/src_randomForest.ipynb)
 * Multiclass and multioutput algorithms
 * Feature selection
 * Isotonic Regression
