@@ -1,16 +1,20 @@
-# AI-Machine-Learning
+# **AI-Machine-Learning**
+
 * Machine Learning here refers specifically to traditional machine learning algorithm(not including Deep Learning)
 * Use Jupyter Notebook to study Machine Learning.
 * As for each Algorithm, algorithm principle and code will be put together in a Jupyter Notebook in [src](https://github.com/PhiSopY/AI-Machine-Learning/tree/master/src) file.
 * Data used in Code will be put in [data](https://github.com/PhiSopY/AI-Machine-Learning/tree/master/data) file.
 * Operation results will be put in [results](https://github.com/PhiSopY/AI-Machine-Learning/tree/master/results) file.
 * Documents sucha as references are put in [doc](https://github.com/PhiSopY/AI-Machine-Learning/tree/master/doc) file.
-## Machine Learning Types
+
+## **1. Machine Learning Types**
 
 ![ML Types](doc/references/thinkingMap/ML_Class2.png)
 
-## Algorithm Outline
-### Unsupervised Learning
+## **2. Algorithm Outline**
+
+### **Unsupervised Learning**
+
 * Gaussian mixture models
 * Mainfold learning
 * Clustering
@@ -19,8 +23,12 @@
 * Covariance estimation
 * Novelty and Outlier Detection
 * Density Estimation
-### Semi-supervised Learning
-### Supervised Learning
+
+### **Semi-supervised Learning**
+* TBD
+
+### **Supervised Learning**
+
 * Linear Models
   * [Logistics Regression](https://github.com/PhiSopY/AI-Machine-Learning/tree/master/src/Supervised-Learning/Linear-Models/LogisticsRegression)
 * Linear and Quadratic Discriminat Analysis
@@ -36,9 +44,16 @@
   * [ID3](https://github.com/PhiSopY/AI-Machine-Learning/tree/master/src/Supervised-Learning/Decision-Trees/IG3)
   * [GBDT](https://github.com/PhiSopY/AI-Machine-Learning/tree/master/src/Supervised-Learning/Decision-Trees/GBDT)
 * Ensemble methods
+  * [Random Forest](https://github.com/PhiSopY/AI-Machine-Learning/tree/master/src/Supervised-Learning/Random-Forest)
 * Multiclass and multioutput algorithms
 * Feature selection
 * Isotonic Regression
 * Probability Calibration
-### Reinforced Learning
+
+### **Reinforced Learning**
+* TBD
+
+
+
+
 
